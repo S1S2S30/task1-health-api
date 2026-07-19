@@ -11,3 +11,6 @@ to confirm the server is running correctly.
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run the app: `python app.py`
 6. Visit: http://127.0.0.1:5000/health
+
+## Live Demo
+https://sarakhan.pythonanywhere.com/health
